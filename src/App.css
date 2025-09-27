@@ -1,38 +1,152 @@
-.App {
-  text-align: center;
+/* Body */
+body {
+  background: #f5fff7;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 220px; /* fixed width */
+  height: 100%;
+  background-color: #4caf50; /* fresh green */
+  padding: 20px;
+  overflow-y: auto;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease-in-out;
+  z-index: 1000;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Checkbox container */
+.checkbox-item {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #f5fff7;
+  cursor: pointer;
+}
+
+/* Custom checkbox */
+.checkbox-item input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #f5fff7;
+  border-radius: 6px;
+  margin-right: 10px;
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease-in-out;
+}
+
+.checkbox-item input[type="checkbox"]:checked {
+  background-color: #81c784; /* lighter green */
+  border-color: #f5fff7;
+}
+
+.checkbox-item input[type="checkbox"]:checked::after {
+  content: "✔";
+  position: absolute;
+  top: -2px;
+  left: 3px;
+  font-size: 16px;
+  color: #1b5e20; /* dark green */
+}
+
+/* Main content */
+div.content {
+  margin-left: 250px; /* same as sidebar width */
+  padding: 20px;
+  min-height: 100vh;
+  background: #f5fff7;
+  color: #2e2e2e;
+  transition: margin-left 0.3s ease;
+}
+
+h1, h2, h3 {
+  color: #2e7d32;
+  margin-top: 0;
+}
+
+/* Menu button for small screens */
+.menu-btn {
+display: none;
+  position: fixed;
+  top: 15px;
+  left: 15px; /* desktop left (can be ignored since hidden) */
+  font-size: 28px;
+  background: #4caf50;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+  z-index: 1001;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Small screens */
+@media screen and (max-width: 700px) {
+  .sidebar {
+    transform: translateX(-100%);
+    width: 220px;
+    padding-top: 60px;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+
+  div.content {
+    margin-left: 0;
+    padding-top: 80px;
+  }
+
+.menu-btn {
+    display: block;
+    right: 15px; /* move to right */
+    left: auto;  /* remove left positioning */
+  }
+}
+
+/* Pagination buttons */
+.page-btn {
+  background-color: #4caf50;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
   color: white;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 12px;
+  transition: background 0.2s ease-in-out;
 }
 
-.App-link {
-  color: #61dafb;
+.page-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.pagination-content {
+  margin-top: 20px;
+  text-align: center;
+  width: 100%;
+}
+.site-footer {
+  background-color: #66bb6ae1; /* fresh green */
+  color: #f5fff7;
+  text-align: center;
+  padding: 15px 20px;
+  font-size: 14px;
+  margin-top: 30px;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
 }

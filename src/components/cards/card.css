@@ -1,0 +1,48 @@
+.vegan-card {
+  background: #f5fff7; /* soft light green */
+  border: 2px solid #a5d6a7; /* leafy border */
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 12px rgba(46, 125, 50, 0.2); /* greenish shadow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.vegan-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(46, 125, 50, 0.3);
+}
+
+.vegan-card h3 {
+  margin-top: 0;
+  color: #2e7d32; /* dark leafy green */
+  font-size: 20px;
+}
+
+.vegan-card p {
+  color: rgb(8, 6, 6);
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+/* Button */
+.vegan-btn {
+  background-color: #4caf50; /* fresh green */
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 12px;
+  transition: background 0.2s ease-in-out;
+}
+
+.vegan-btn:hover {
+  background-color: #388e3c; /* deeper green on hover */
+}
+
+.recipe{
+  padding: 2%;
+}
+
