@@ -12,7 +12,7 @@ function Home() {
   const [filter, setFilter] = useState([]);
 
   useEffect(() => {
-    fetch('/recipes.json')
+    fetch(process.env.PUBLIC_URL+'/recipes.json')
       .then((response) => response.json())
       .then((response_data) => {
         setData(response_data);
