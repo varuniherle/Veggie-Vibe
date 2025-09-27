@@ -8,7 +8,7 @@ function RecipeCard() {
     const navigate = useNavigate();
 
     useEffect(() => {
-        fetch("/recipes.json")
+        fetch(process.env.PUBLIC_URL+"/recipes.json")
             .then((res) => res.json())
             .then((data) => {
                 const selected = data.find((r) => r.id === parseInt(id));
