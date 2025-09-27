@@ -54,18 +54,19 @@ function RecipeList({ data, filter }) {
       {/* Search box */}
       <div style={{ marginBottom: "20px" }}>
         <input
-          type="text"
-          placeholder="Search recipes by name..."
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-          style={{
-            padding: "8px 12px",
-            borderRadius: "6px",
-            border: "1px solid #ccc",
-            width: "98%",
-            
-          }}
-        />
+  type="text"
+  placeholder="Search recipes by name..."
+  value={searchTerm}
+  onChange={(e) => setSearchTerm(e.target.value)}
+  style={{
+    padding: "8px 12px",
+    borderRadius: "6px",
+    border: "1px solid #ccc",
+    width: "98%",
+    fontSize: "16px" 
+  }}
+/>
+
       </div>
 
       {currentRecipes.length > 0 ? (
