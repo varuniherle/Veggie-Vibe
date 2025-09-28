@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/Veggie-Vibe/static/css/main.ffe5e56c.css",
-    "main.js": "/Veggie-Vibe/static/js/main.30bb338d.js",
-    "static/js/453.87082769.chunk.js": "/Veggie-Vibe/static/js/453.87082769.chunk.js",
-    "static/media/logo.svg": "/Veggie-Vibe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/Veggie-Vibe/static/js/main.a8a20323.js",
+    "static/js/453.ba24288a.chunk.js": "/Veggie-Vibe/static/js/453.ba24288a.chunk.js",
     "index.html": "/Veggie-Vibe/index.html",
     "main.ffe5e56c.css.map": "/Veggie-Vibe/static/css/main.ffe5e56c.css.map",
-    "main.30bb338d.js.map": "/Veggie-Vibe/static/js/main.30bb338d.js.map",
-    "453.87082769.chunk.js.map": "/Veggie-Vibe/static/js/453.87082769.chunk.js.map"
+    "main.a8a20323.js.map": "/Veggie-Vibe/static/js/main.a8a20323.js.map",
+    "453.ba24288a.chunk.js.map": "/Veggie-Vibe/static/js/453.ba24288a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe5e56c.css",
-    "static/js/main.30bb338d.js"
+    "static/js/main.a8a20323.js"
   ]
 }
