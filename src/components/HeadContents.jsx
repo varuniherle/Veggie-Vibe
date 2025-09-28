@@ -1,7 +1,7 @@
 function HeadContents() {
   return (
 <div>
-  <h1>Veggie Vibe</h1>
+  <h1>Happy veggie bites</h1>
 </div>
   )
 }

@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import React from "react";
 import RecipeList from "./RecipeList";
 import SidebarFilter from "./SidebarFilter"
-import Header from "./HeadContents"
 import HeadContents from "./HeadContents";
 import Footer from "./Footer";
 

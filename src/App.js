@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Home from './components/Home';
 import { HashRouter as Router, Routes, Route } from "react-router-dom";

@@ -5465,5 +5465,703 @@
             "Sprinkle shredded coconut on top and drizzle maple syrup."
         ],
         "id": 230
+    },
+      {
+        "name": "Coconut Rice",
+        "description": "This is a SOUTH INDIANrecipe for coconut rice. Fried coconut and cashewnuts are added to boiled rice and garnished with ghee and coriander leaves.",
+        "ingredients": [
+            "400 gms biryani rice",
+            "120 gms coconut",
+            "40 ml ghee",
+            "25 gms black gram dhal",
+            "25 gms broken pieces of nuts",
+            "6 gms dry chillies",
+            "2 gms curry leaves",
+            "2.5 gms asafoetida powder",
+            "20 gms (minced) coriander leaves",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Boil rice and keep aside.",
+            "Fry coconut evenly to a golden colour on a slow fire.",
+            "Heat 3 dessertspoon of ghee. Fry the cashewnuts and remove.",
+            "Fry the broken pieces of dry chillies, black gram dhal, and curry leaves well.",
+            "Mix rice, coconut, nuts, 1 teaspoon of ghee and salt.",
+            "Serve hot garnished with coriander leaves."
+        ],
+        "id": 231,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Curd Rice",
+        "ingredients": [
+            "1 Cup Boiled Rice",
+            "2 cups of plain yogurt (Curd)",
+            "2 Tbsp Oil",
+            "1/4 cup milk",
+            "Finely chopped coriander leaves",
+            "1-2 green chilies",
+            "1 tsp. chana daal",
+            "1 tsp. urad daal",
+            "1 tsp. mustard seeds",
+            "1 1/2 tsp. finely chopped ginger",
+            "2 Tbsp desiccated coconut",
+            "1/2 tsp. salt"
+        ],
+        "instructions": [
+            "In a saucepan heat 2 tablespoonful of oil.",
+            "Add mustard seeds to the oil.",
+            "When the mustard seeds start popping add chana and urad daal.",
+            "After a minute, add in the ginger, coriander and green chilies.",
+            "Sauté them for a minute.",
+            "Take the pan off the gas. Add in the rice.",
+            "Mix the salt and desiccated coconut.",
+            "Just before serving, mix all the ingredients with yogurt (curd) and milk. Curd rice is ready to be served."
+        ],
+        "id": 232,
+        "category": "RICE"
+    },
+    {
+        "name": "Hyderabadi Biryani",
+        "ingredients": [
+            "350 gms Basmati Rice",
+            "200 gms Potatoes",
+            "200 gms Carrots",
+            "100 gms Onions",
+            "4 Green Chilies",
+            "30 gms Ginger",
+            "20 gms Garlic",
+            "1/2 tsp Turmeric Powder",
+            "1 tsp Red Chili Powder",
+            "1 cup Curd",
+            "1 tsp Saffron",
+            "2 tbsp Milk",
+            "1/3 cup Mint ( Pudina leaves )",
+            "1/3 cup Coriander Leaves",
+            "4 tsp Rose Water",
+            "50 gms Cashewnuts",
+            "50 gms Almonds",
+            "25 gms Raisins",
+            "120 gms Ghee",
+            "Salt To taste"
+        ],
+        "instructions": [
+            "Wash and soak the basmati rice for half an hour. Drain the water. Put the rice, some more water and add half the whole garam masala and salt in a pan.",
+            "Bring the rice to a boil and cook until the rice is done. Drain and keep aside.",
+            "Dice the peeled potatoes and carrots and wash them. Slice the onions and green chilies.",
+            "Peel ginger and garlic and chop finely. Chop the coriander and mint leaves.",
+            "Soak the almonds in water for half an hour and keep aside.",
+            "Beat the curd in a bowl and divide into two equal portions.",
+            "Dissolve saffron in warm milk and add it to one portion of the curd mixture.",
+            "Heat ghee, add the remaining garam masala and sautÃ© over medium heat until it begins to crackle.",
+            "Add onions until golden brown. Then add green chilies, ginger, garlic and stir for a minute.",
+            "Add turmeric and chili powder, saute for half a minute add the chopped vegetables and stir for a minute.",
+            "Add the portion of plain curd, stir, add 2/3 cup water, and bring to a boil, then simmer until the vegetables are cooked.",
+            "Add the dry fruits and nuts when the vegetables are done.",
+            "In the handi with the cooked vegetables, sprinkle little saffron curd, mint and coriander.",
+            "Then spread half the rice and again sprinkle the remaining saffron-curd, mint and coriander and top it with the remaining rice.",
+            "Place a moist cloth on top, cover the lid tightly so that it gets sealed.",
+            "Put the handi on dum in a pre-heated oven for 15-20 minutes.",
+            "Serve the hyderabadi biryani hot with mint chutney and other vegtables."
+        ],
+        "id": 233,
+        "category": "RICE"
+    },
+    {
+        "name": "Sambhar Rice",
+        "description": "Learn how to make sambhar dal and rice easily and quickly.",
+        "ingredients": [
+            "1 cup rice",
+            "1 cup toor dhal (soak the dhal for 3-4 hours in hot water)",
+            "1/4 tsp turmeric powder",
+            "1/2 tsp. coriander powder",
+            "1/2 tsp chilly powder",
+            "2 tsp sambar powder",
+            "salt to taste",
+            "1 tsp tamarind paste",
+            "ghee for frying",
+            "1/2 tsp mustard seeds",
+            "a few curry leaves",
+            "a pinch of asafoetida",
+            "2 cashews (optional)",
+            "few chopped shallots (sambar onions)",
+            "a few chopped corriander leaves"
+        ],
+        "instructions": [
+            "Wash rice and dhal, drain away all the water, to the rice/dhal mixture add the turmeric powder, corriander powder, chilly powder, sambar powder and salt.",
+            "Add 4 cups of water to tamrind paste mix and pour into the dhal/rice mixture.",
+            "Cook in pressure cooker for 10 to 12 minutes.",
+            "Add ghee in the pan and fry the shallots (sambar onions), as it's getting brown add the mustard seeds, cashewnuts, curry leaves.",
+            "Add this seasoning to the Sambar Bath.",
+            "Sprinkle with chopped Corriander Leaves.",
+            "Serve hot."
+        ],
+        "id": 235,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Tamarind Rice",
+        "description": "Tamarind is a popular rice recipe of the south India. Tamarind or imli as it known otherwise kes this dish tangy.",
+        "ingredients": [
+            "2 cups basmathi rice",
+            "1/2 cup tamarind juice",
+            "salt to taste",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp jaggery powder",
+            "1 tsp fenugreek",
+            "a pinch of asafoetida",
+            "1 tsp mustard",
+            "1 tsp channa dhal",
+            "6 red chilly",
+            "100 gms sesame oil(as needed)",
+            "a bunch of curry leaves",
+            "1 tsp peanuts"
+        ],
+        "instructions": [
+            "Pressure Cook the rice and spread on a plate. keep aside.",
+            "Heat the non-stick skillet add fenugreek and asafoetida dry fry (without oil) for a minute.",
+            "Grind this into a fine powder. Set aside.",
+            "To the tamarind juice add salt, turmeric powder, jaggery, ground powder of fenugreek and asafoetida.",
+            "Fry mustard, red chillies, channa dhal, peanuts and curry leaves in sesame oil.",
+            "Pour into the tamarind juice mixture.",
+            "Boil tamarind juice till it reaches thick gravy form and until oil comes out with good flavour.",
+            "Add cooked tamarind gravy to the rice.",
+            "Pour in 1 tsp. of oil, if needed. Mix well and serve."
+        ],
+        "id": 236,
+        "category": "RICE"
+    },
+    {
+        "name": "Masala Dose",
+        "ingredients": [
+            "Dosa shell:",
+            "1 1/2 cups rice",
+            "1/2 cup urad dal",
+            "salt to taste",
+            "Oil",
+            "Masala Filling:",
+            "2 large potatoes",
+            "1 medium onion (chopped)",
+            "1/2 teaspoon yellow split peas",
+            "1/2 teaspoon mustard seed",
+            "1/2 teaspoon turmeric",
+            "1-2 green chili",
+            "1 tablespoon oil",
+            "salt to taste"
+        ],
+        "instructions": [
+            "Separately soak rice and urad dal at least 6 hour or overnight in water.",
+            "Grind to paste.",
+            "Mix together, add salt with water to make batter.",
+            "Leave in room temperature overnight.",
+            "Mix onion and chilies to the thin batter.",
+            "Heat pan or griddle with little ghee or oil.",
+            "Spread the mix on pan in circular motion to make thin Dosa.",
+            "Cook on both the sides, if desired.",
+            "Masala Filling (Spicy Filling):",
+            "Heat oil. Add mustard seed, peas, onions and spice.",
+            "Fry for about 5 minutes on medium heat or/until onions are turned into golden brown",
+            "Add potatoes and mix and cook some more Serve",
+            "Add filling inside Dosa and roll. Serve hot with Chutney."
+        ],
+        "id": 237,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Idli",
+        "ingredients": [
+            "2 cups Rice",
+            "1 cup Urad Daal (white)",
+            "1 1/2 tblsp Salt",
+            "A pinch of Baking Soda",
+            "Oil for greasing"
+        ],
+        "instructions": [
+            "Pick, wash and soak the daal overnight or for 8 hours.",
+            "Pick, wash and drain the rice. Grind it coarsely in a blender.",
+            "Grind the daal into a smooth and forthy paste.",
+            "Now mix the grinded rice and daal together into a batter.",
+            "Mix salt and set aside in a warm place for 8-9 hours or overnight for fermenting.",
+            "Idlis are ready to be cooked when the batter is well fermented.",
+            "Grease the idle holder or pan well and fill each of them with 3/4th full of batter.",
+            "Steam cook idlis on medium flame for about 10 minutes or until done.",
+            "Use a butter knife to remove the idlis.",
+            "Serve them with sambhar or chutney."
+        ],
+        "id": 238,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Vada",
+        "ingredients": [
+            "1/2 cup Urad Daal",
+            "1/2 cup Moong Daal",
+            "1 Onion finely chopped",
+            "1 tsp Ginger",
+            "1-2 Green Chilies finely chopped",
+            "Salt to taste",
+            "1/4 tsp Baking Soda"
+        ],
+        "instructions": [
+            "Pick, wash and soak daals for 3-4 hours.",
+            "Grind them coarsely in a blender.",
+            "Now add onions,ginger, green chilies salt and baking powder and mix well and set aside for 5 minutes.",
+            "Heat oil in a pan or kadhai and deep fry a spoonful of batter till golden",
+            "Serve with chutney as a breakfast or sambhar or rasam as a meal."
+        ],
+        "id": 239,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Vermicelli Upma",
+        "ingredients": [
+            "2 cups Vermicelli",
+            "1 tsp Chana dal",
+            "1 tsp Urad dal",
+            "1/4 tsp Mustard seeds",
+            "2 tsp Cashewnuts",
+            "2 tsp Peanuts",
+            "1 Onions",
+            "2 Green chillies",
+            "1/2 inch Ginger",
+            "1 Potatoes",
+            "1/4 cup Peas",
+            "1 Carrots",
+            "1 Tomatoes",
+            "4 1/2 cups Water",
+            "3 tblsp Oil",
+            "2 tblsp Ghee",
+            "3 sprig Curry Leaves",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Chop the onions, chillies, ginger, tomatoes , potatoes, carrots into small pieces and keep aside.",
+            "Heat oil and add chana dal, urad dal, mustard seeds and curry leaves. When they start to crackle , add peanuts and cashewnuts. Fry till they turn golden brown.",
+            "Add potatoes, carrots and fry for 4-5 minutes.",
+            "Then add chillies, ginger , onions, peas and tomatoes.",
+            "Cook until they are done.",
+            "After that add salt and 4 1/2 cups of water, cover with a lid and let it boil .",
+            "When the water comes to boil add vermecelli and simultaneously stir ( so that no lumps will be formed).",
+            "Cover the upma with a lid for 5-6 minutes and then add 2tbsp of ghee and stir well.",
+            "Serve hot with coconut chutney."
+        ],
+        "id": 240,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Kaikari Biryani",
+        "ingredients": [
+            "2 cups rice (chawal)",
+            "2 onions ( pyaj)",
+            "1 tomatoes (tamatar)",
+            "1 carrot (gajar)",
+            "10 french beans ",
+            "1/4 cup green peas (matar) (shelled)",
+            "2 potatoes",
+            "1 (medium sized) cauliflower (phool gobi)",
+            "1 capsicum (shimla mirch)",
+            "1 lemon",
+            "1/4 cup coriander leaves (dhania patta)",
+            "1/4 cup mint (pudina) leaves (pudina leaves)",
+            "4 green chillies",
+            "10-12 curry leaves (kari patta)",
+            "10 tblsp groundnut (moong fali) oil (tel)",
+            "salt (namak) to taste",
+            "for masala paste:",
+            "1/4 cup coconut (narial) (scraped)",
+            "10-12 cloves garlic (lasan)",
+            "1 inch ginger (adrak)",
+            "4 red chillies whole",
+            "2 tblsp coriander seeds",
+            "1 tsp cumin seeds",
+            "1 tblsp poppy seeds (khuskhus)",
+            "2 tblsp fennel (saunf) seeds (saunf)",
+            "garam masala powder:",
+            "1/2 inch cinnamon (tuj/dalchini)",
+            "2 cloves (lavang)",
+            "2 green cardamoms",
+            "2 blades mace (javitri)",
+            "1 tsp peppercorns",
+            "1/4 tsp nutmeg (jaiphal) powder"
+        ],
+        "instructions": [
+            "Clean, wash and soak rice for about 30-45 minutes. Peel and chop the onions. Wash and chop the tomatoes.",
+            "Wash and dice all the vegetables into equal sized pieces. Squeeze lemon, strain and keep juice aside.",
+            "Heat 4 tablespoons oil and fry the masala ingredients till light brown. Cool and grind to a smooth paste with little water.",
+            "Dry roast the ingredients for the garam masala powder for 2-3 minutes and pound it into a coarse powder. Wash and chop the coriander leaves and mint leaves. Wash and slit the green chillies and keep aside.",
+            "Heat the remaining oil and fry the onions till golden brown. Wash and add the curry leaves, green chillies and masala paste. Fry till oil separates. Add the chopped tomatoes and cook on high heat till the moisture evaporates.",
+            "Add the vegetables and stir. Cook for a couple of minutes on high heat, drain the rice well and add the vegetable mixture. Add salt to taste.",
+            "Add double the quantity or enough hot water as per the quality of the rice.",
+            "Bring to boil and reduce to medium heat. Cover and cook, stirring once in a while till almost done.",
+            "Sprinkle the chopped mint and coriander leaves, garam masala powder, sprinkle the lemon juice, stir well, cover with a tight lid.",
+            "Keep on hot charcoal for about 10 minutes.",
+            "Open when ready to serve."
+        ],
+        "id": 241,
+        "category": "RICE"
+    },
+    {
+        "name": "Murukku",
+        "ingredients": [
+            "2 cups rice (chawal)",
+            "1/4 cup black gram split (urad dal)",
+            "1 tsp cumin seeds",
+            "1/4 tsp asafoetida",
+            "salt (namak) to taste",
+            "1/4 cup white butter",
+            "coconut (narial) oil for frying"
+        ],
+        "instructions": [
+            "Dry roast the rice in a warm frying pan without letting the color change. Wash and soak for about half an hour, drain and spread on a cotton cloth to absorb the excess moisture. Grind to a fine powder.",
+            "Broil the urad dal to light brown colour, cool and grind into a smooth powder.",
+            "Sieve both the flours together through a fine sieve.",
+            "Dissolve asafoetida and salt in one fourth cup water and add the cumin seeds, make a firm dough with the sieved flour. Rub in the butter and knead with light hands to fully incorporate the butter.",
+            "To make the murukkus, grease your fingers and take a little dough. Roll them between your palm to a tubular form. Form this roll into circles, while twisting them along. Make two circles next to each other. Press the ends into the circle to secure. Make two batches at a time, cover with a wet cloth to prevent them from drying.",
+            "Heat oil and fry them in batches. Take them on a plate and gently slide them into the oil and fry on both sides till it becomes light golden brown and crisp.",
+            "Drain and let it cool before serving them. Store in a dry air-tight container."
+        ],
+        "id": 242,
+        "category": "SNACKS"
+    },
+    {
+        "name": "Onion Adai",
+        "ingredients": [
+            "2 cups Parboiled Rice (ukda Rice)",
+            "1/4 cup Red Gram Split (masoor Dal)",
+            "1/4 cup Bengal Gram Split (chana Dal)",
+            "1/4 cup Pigeon Pea Split (arhar Dal)",
+            "1/2 cup Black Gram Split (urad Dal)",
+            "4 Green Chillies",
+            "1 inch Ginger",
+            "1/4 cup Coriander Leaves (chopped)",
+            "10-12 Curry Leaves",
+            "8 Red Chillies Whole",
+            "Salt to taste",
+            "1/4 tsp Asafoetida",
+            "1 Onion",
+            "1/4 cup Coconut (scraped)",
+            "Refined Oil to fry"
+        ],
+        "instructions": [
+            "Wash and soak the rice and the dals for about 4 hours.",
+            "Wash and grind the green chillies, ginger, coriander leaves, curry leaves with red chillies and salt to a coarse paste.",
+            "Peel and chop the onion finely and keep aside.",
+            "Drain and grind the rice and dal to a coarse batter. Rest the batter for about an hour.",
+            "Mix the paste, asafoetida, onion and coconut to this batter and mix well. Check for salt and keep aside.",
+            "Heat a heavy dosa griddle, smear oil and spread one ladle full of this batter to a thick circular shape. Make a few holes in the center. Pour oil on the sides and in the center, cover and cook over low heat.",
+            "Turn over and pour the oil and let it cook till it is crisp all around and golden brown in color.",
+            "You can make about 8-10 adais. Serve hot with the chutney of your choice."
+        ],
+        "id": 243,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Rava Dose",
+        "ingredients": [
+            "2 cups sooji, rava",
+            "1/2 cup rice (chawal) flour",
+            "1/2 cup buttermilk",
+            "1/4 tsp asafoetida",
+            "salt (namak) to taste",
+            "1 inch ginger (adrak)",
+            "4 green chillies",
+            "10-12 curry leaves (kari patta)",
+            "1/4 cup coconut (narial) (scraped)",
+            "12 cashewnuts",
+            "2 tblsp peppercorns",
+            "1 tsp cumin seeds",
+            "2 tblsp vegetable fat (ghee)",
+            "refined oil (tel) to fry"
+        ],
+        "instructions": [
+            "Blend rava, rice flour and buttermilk to make a thin batter, add asafoetida and required salt. Stand the batter for at least 6 hours.",
+            "Wash and finely chop the ginger, green chillies and curry leaves. Chop the coconut and cashew nut into very small bits.",
+            "Crush the peppercorns and cumin seeds. Heat the ghee and roast peppercorn and cumin seeds in it and add to the batter.",
+            "Mix the chopped greens, coconut and cashew into the batter. Stir well.",
+            "Grease a non-stick tawa, smear little oil. Pour a ladle full of the batter and spread by swirling the tava.",
+            "Pour a tablespoon oil around and on the dosa.",
+            "Cook till it is crisp and golden in color. Remove and serve hot."
+        ],
+        "id": 244,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Bagala Baath",
+        "ingredients": [
+            "2 cups rice (chawal)",
+            "1 cup yogurt",
+            "1/2 cup milk",
+            "1/4 cup fresh cream (malai)",
+            "1 cucumber (kheera)",
+            "1 carrot (gajar)",
+            "1 raw mango (aam)",
+            "1/4 cup green grapes (angoor) (seedless)",
+            "1 tsp mustard seeds (raai)",
+            "1 red chillies whole",
+            "4 green chillies",
+            "1\" ginger (adrak)",
+            "1/4 tsp asafoetida (hing)",
+            "1 sprig curry leaves (kari patta)",
+            "2 tblsp gingelly oil (tel)",
+            "salt (namak) to taste"
+        ],
+        "instructions": [
+            "Clean, wash and boil rice and slightly overcook it. Drain well and cool. When it reaches room temperature, mix in the milk, asafoetida and salt to taste.",
+            "Wash and chop green chillies and ginger finely. Peel and deseed cucumber. Grate, mix in a little salt and keep aside.",
+            "Peel and grate the carrot and mango and keep separately. Slice the grapes into two and keep.",
+            "Heat oil in a small pan and temper with mustard seeds, asafoetida, red chilli and curry leaves. Add the ginger and green chillies, stir well and add to the prepared rice.",
+            "Add the yogurt, cream and the grapes. Mix well and chill in the refrigerator.",
+            "Squeeze out excess water from the cucumber. Garnish the rice with the grated cucumber, carrot and mango and serve."
+        ],
+        "id": 245,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "White Pumpkin Kootu",
+        "ingredients": [
+            "750 gms white pumpkin (kadhu)",
+            "1/4 tsp turmeric (haldi) powder",
+            "salt (namak) to taste",
+            "for masala:",
+            "1/2 cup coconut (narial) (scraped)",
+            "1 tblsp cumin seeds",
+            "4 green chillies",
+            "1 tsp peppercorns",
+            "1 1/2 tsps. rice (chawal)",
+            "for tempering:",
+            "1 tsp mustard seeds (raai)",
+            "2 red chillies whole",
+            "1 tsp black gram split (urad dal)",
+            "10-12 curry leaves (kari patta)",
+            "2 tblsp sesame seeds (til)",
+            "1/4 tsp asafoetida (hing)"
+        ],
+        "instructions": [
+            "Peel, deseed and cut the pumpkin into small cubes.",
+            "Grind the masala ingredients to a smooth paste.",
+            "Cook the pumpkin in 2 cups water, salt and turmeric powder.",
+            "When half done, add the masala and simmer till it thickens. Stir frequently.",
+            "Heat oil and temper with the above ingredients."
+        ],
+        "id": 246,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Mixed Vegetables in Coconut Milk",
+        "ingredients": [
+            "2 medium potatoes",
+            "12-15 broad beans (kali seim ki phalli)",
+            "1/2 cup green peas (matar) (shelled)",
+            "1/4 flower cauliflower (phool gobi)",
+            "2 medium carrot (gajar)",
+            "100 gms red pumpkin (kadhu)",
+            "1 1/2 cups coconut (narial) (scraped)",
+            "2 tblsp tamarind (imli) pulp",
+            "3 tblsp groundnut (moong fali) oil (tel)",
+            "4 red chillies whole",
+            "1 tsp cumin seeds",
+            "1 tblsp coriander seeds",
+            "8-10 cloves garlic (lasan)",
+            "1 tsp turmeric (haldi) powder",
+            "salt (namak) to taste",
+            "1 tsp mustard seeds (raai)",
+            "1 tsp black gram split (urad dal)",
+            "8-10 curry leaves (kari patta)"
+        ],
+        "instructions": [
+            "Peel and dice the potatoes into 1 inch cubes. String the beans and halve them, cut them into one inch pieces. Shell the peas. Wash cauliflower and separate the cauliflower florets. Peel and dice the carrots into 1 inch cubes. Peel and dice the pumpkin into 1 inch cubes.",
+            "Add warm water to one cup of scraped coconut and extract thick and thin milk. Keep aside. Dissolve tamarind pulp in half cup of water.",
+            "Heat a little oil and sautÃ© 2 whole red chillies, cumin, coriander, garlic and the remaining half cup of scraped coconut till a nice aroma is given out. Grind into a fine paste.",
+            "Boil the vegetables in the thin coconut milk with turmeric powder, tamarind extract and salt till three-fourth done. Add the ground masala and cook for 10 minutes.",
+            "Heat a little oil separately and add the remaining red chillies broken into two, mustard seeds and urad dal. Add curry leaves and add this to the vegetables.",
+            "Continue cooking the vegetables till done. Then add the thick coconut milk and simmer for two to three minutes. Serve hot with boiled rice."
+        ],
+        "id": 247,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Mango Pesarel",
+        "ingredients": [
+            "2 raw mangoes",
+            "4 green chillies",
+            "4 tblsp gingelly oil (tel)",
+            "1/2 tsp mustard seeds (raai)",
+            "1 tsp red chilli (lal mirch) powder",
+            "1/4 tsp asafoetida",
+            "1/2 tsp salt (namak)"
+        ],
+        "instructions": [
+            "Wash, wipe and cut the mangoes with skin into very tiny pieces.",
+            "Wash and slit the green chillies and keep aside.",
+            "Heat the oil, temper with mustard seeds, add asafoetida, salt and red chilli powder.",
+            "Stir and add the green chillies and mangoes, toss well and cook for about two to three minutes.",
+            "Remove and cool. It is ready to serve and can be kept for 6-7 days at refrigerated temperature."
+        ],
+        "id": 248,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Cucumber Pachadi",
+        "ingredients": [
+            "2 small sized cucumber (kheera)",
+            "1/2 inch ginger (adrak)",
+            "2-3 green chillies",
+            "2 tblsp coconut (narial) (scraped, optional)",
+            "1 1/2 cups yogurt",
+            "1 tsp oil (tel)",
+            "1/2 tsp mustard seeds (raai)",
+            "5-6 curry leaves (kari patta)",
+            "2 red chillies whole",
+            "salt (namak) to taste"
+        ],
+        "instructions": [
+            "Wash and scrub cucumbers thoroughly and then grate with the skin.",
+            "Pour yogurt (made of skimmed milk) into a clean muslin cloth and hang it for half an hour, preferably in a cool place.",
+            "Peel, wash and finely chop ginger. Wash green chillies, remove stem and finely chop.",
+            "Grind together scraped coconut, green chillies and ginger to a fine paste.",
+            "Mix together the grated cucumber, ground coconut masala and yogurt. Add salt to taste.",
+            "Heat oil in a small pan, add mustard seeds. When they start to crackle, add curry leaves, whole red chillies broken into two, stir for a moment.",
+            "Pour it on to the yogurt mixture. Stir it thoroughly.",
+            "Serve chilled."
+        ],
+        "id": 249,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Vegetable Rava Uppuma",
+        "ingredients": [
+            "2 cups semolina (sooji, rava)",
+            "1 carrot (gajar)",
+            "1/4 cup french beans (flas beans)",
+            "1 small cauliflower (phool gobi)",
+            "1 capsicum (shimla mirch)",
+            "1 onion (pyaj)",
+            "1 inch ginger (adrak)",
+            "4 green chillies",
+            "1 lemon",
+            "6 tblsp oil (tel)",
+            "1/2 tsp mustard seeds (raai)",
+            "4 red chillies whole",
+            "2 tsp black gram split (urad dal)",
+            "10-12 curry leaves (kari patta)",
+            "1/4 cup green peas (matar) (shelled)",
+            "1/4 tsp asafoetida",
+            "salt (namak) to taste"
+        ],
+        "instructions": [
+            "Roast the rava in a dry kadai without the color changing, remove and cool.",
+            "Wash, peel and cut the vegetables to small dices of equal size.",
+            "Peel and chop onion and ginger fine. Wash and slit the green chillies and squeeze the lemon, strain and keep juice.",
+            "Boil water, add little salt and cook carrot, beans and cauliflower for 10 minutes, drain and reserve.",
+            "Heat oil, temper with mustard seeds, red chillies, urad dal and curry leaves. Add the green chillies and stir.",
+            "Add the onion, ginger and cook for a few minutes. Add the capsicum and green peas and sautÃ© for about 5 minutes. Add the cooked vegetables, sprinkle asafoetida and salt to taste.",
+            "Pour 4 cups water and bring to boil.",
+            "When the water starts boiling, add the rava in a flow, stirring continuously to prevent lumps from forming.",
+            "Cook for a few more minutes stirring all the while.",
+            "Remove, drizzle lemon juice and serve hot."
+        ],
+        "id": 250,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Olan",
+        "ingredients": [
+            "1 cup red pumpkin",
+            "1 cup white pumpkin",
+            "6 green chillies",
+            "salt (namak) to taste",
+            "2 tblsp coconut (narial) oil (tel)",
+            "10-12 curry leaves (kari patta)"
+        ],
+        "instructions": [
+            "Wash and slit the green chillies and keep aside. Cut Pumpkin into cubes.",
+            "Boil the vegetables in 1 cup water with salt and slit green chilies. Stir frequently till the vegetables are soft and completely cooked.",
+            "Mash the vegetables lightly with a ladle, pour the raw coconut oil, mix and add the curry leaves.",
+            "Adjust salt to taste and serve."
+        ],
+        "id": 251,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Paruppu Usili with Green Beans",
+        "ingredients": [
+            "250 gms. french beans (flas beans)",
+            "1/2 tsp turmeric (haldi) powder",
+            "2 green chillies",
+            "1/2 tsp mustard seeds (raai)",
+            "1 tsp black gram split (urad dal)",
+            "2 red chillies whole",
+            "8-10 curry leaves (kari patta)",
+            "4-5 tblsp gingelly oil (tel)",
+            "salt (namak) to taste",
+            "for dal paste:",
+            "1/4 cup bengal gram (chana) split",
+            "2 tblsp black gram split (urad dal)",
+            "1/4 cup pigeon pea split (arhar dal)",
+            "2 tblsp green gram split (moong dal)",
+            "6 red chillies whole",
+            "1/4 tsp asafoetida",
+            "salt (namak) to taste"
+        ],
+        "instructions": [
+            "Wash, string and cut French beans into half centimeter sized dices. Cook beans in salted boiling water for two to three minutes. Drain well and reserve. Wash, remove stems and finely chop green chillies.",
+            "Soak all the dals for about twenty minutes. Drain and grind to a thick paste with dry red chillies, salt and asafoetida powder. Add water if required.",
+            "Apply a little oil on a piece of banana leaf according to the size of the steamer or the pressure cooker. Spread dal paste evenly on it and steam in a cooker for fifteen minutes or till cooked. Insert a toothpick or needle into the dal mixture and if it comes out clean then it is cooked.",
+            "Turn out cooked dal on a large plate and cool. Crumble cooked dal to a coarse powder with your palm and fingers. If dal is quite dry and solid, then you can blend it briefly in a food processor to crumble.",
+            "Heat oil in a shallow pan, temper with mustard seeds, red chillies, urad dal and curry leaves.",
+            "Stir-fry briefly and add chopped green chillies.",
+            "Add the cooked beans and crumbled dal mixture. Toss on high heat for a two to three minutes. Reduce heat and cook, stirring frequently for five to six minutes or till the beans and dal start sizzling.",
+            "Adjust seasoning and serve hot."
+        ],
+        "id": 252,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Neer More",
+        "ingredients": [
+            "2 cups yogurt",
+            "1 1/2 tblsp lemon juice",
+            "4 green chillies",
+            "1 inch ginger (adrak)",
+            "1/4 cup coriander leaves (dhania patta)",
+            "10-12 curry leaves (kari patta)",
+            "1 tsp cumin seeds",
+            "1/4 tsp asafoetida",
+            "salt (namak) to taste"
+        ],
+        "instructions": [
+            "Churn the yogurt. Add about 1/4 litre chilled water. Churn briefly.",
+            "Wash green chillies and fresh coriander leaves, wash and peel ginger. Chop all the three ingredients finely.",
+            "Pound curry leaves with required quantity of salt.",
+            "Dry roast the cumin seeds and crush into a fine powder.",
+            "Add the prepared ingredients to churned yogurt. Mix in asafoetida powder. Adjust salt and refrigerate for about 1/2 hour.",
+            "Strain and serve in tall glass tumblers with some crushed ice."
+        ],
+        "id": 253,
+        "category": "SOUTH INDIAN"
+    },
+    {
+        "name": "Jackfruit Puzhukku",
+        "ingredients": [
+            "12-16 raw jackfruit (kathal)",
+            "1 cup coconut (narial) (scraped)",
+            "1 tsp rice (chawal)",
+            "1/2 cup green gram split (moong dal)",
+            "1/2 tsp red chilli (lal mirch) powder",
+            "4 red chillies whole",
+            "salt (namak) to taste",
+            "2 tblsp coconut (narial) oil (tel)"
+        ],
+        "instructions": [
+            "Take raw jackfruit cut into 12-16 segments. Choose large jackfruit segments, which are not fully ripe. De-seed and cut into two or three pieces.",
+            "Soak half the coconut with rice and grind lightly.",
+            "Broil the dal in a kadhai for a couple of minutes, cool, wash and boil in two cups water till soft and completely cooked.",
+            "Add the jackfruit sections and continue cooking.",
+            "Add chilli powder, red chilies broken into two and salt. Stir well.",
+            "Add the scraped coconut and the coconut paste to the vegetable. Simmer till it thickens.",
+            "Drizzle the coconut"
+        ],
+        "id": 254,
+        "category": "SOUTH INDIAN"
     }
 ]
