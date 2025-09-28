@@ -6163,5 +6163,33 @@
         ],
         "id": 254,
         "category": "SOUTH INDIAN"
-    }
+    },
+    {
+  "name": "Moong Dal Chilla",
+  "description": "A quick and healthy pancake made from spiced moong dal batter.",
+  "ingredients": [
+    "1 bowl soaked moong dal",
+    "1 small piece of ginger",
+    "some chopped green chili",
+    "1 chopped onion",
+    "1/2 chopped capsicum",
+    "some sweet corn",
+    "1 tbsp salt",
+    "1/2 tbsp coriander powder",
+    "1/2 tbsp red mirch powder",
+    "1/2 tbsp garam masala",
+    "oil or ghee"
+  ],
+  "instructions": [
+    "Soak moong dal for 2 hours.",
+    "Make a fine paste of the soaked dal and ginger.",
+    "Add chopped green chili, onion, capsicum, sweet corn, salt, coriander powder, red mirch powder, and garam masala to the paste.",
+    "Mix all the ingredients together to form a batter.",
+    "Grease a tawa with oil or ghee and spread the batter.",
+    "Cook on both sides until golden brown.",
+    "Serve hot with chutney."
+  ],
+  "id": 255,
+"category": "BREAKFAST"
+}
 ]
